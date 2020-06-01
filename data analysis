@@ -1,0 +1,21 @@
+You must include a written description of three observable trends based on the data
+
+1. While male make up the majority of the players, female players spend more money on their games. Female players spent more
+money for games on average than the average of all players while male players spent just under the average of all players.
+The games that female players purchase are slightly more expensive than the games that male players purchase. Due to a
+smaller sample size, the average purchase price data is skewed resulting in a higher purchase price for female players.
+
+2. The age groups that spend the most money on average for games are the 35-39 age group and the <10 age group compared to
+the age groups between 15-29 which have the most gamers. Again, I believe this is due to the fact that the 35-39 and <10 age
+groups have fewer gamers, which would skew the data while the age groups between 15-29 have more gamers and therefore, the 
+purchase price can be balanced out. If the 35-39 and <10 age groups had more gamers (close to 200 like the 15-29 age groups),
+then I expect their average purchase price to be lower. It is not the case for all age groups but I believe this is a reason
+why the 35-39 amd <10 age groups spend the most money on average compared to age groups with more players.
+
+3. The most popular items and most profitable items include only two of the same items. This is due to the fact that the items
+are being sorted by two different columns in each question (purchase count) and (total purchase value). There are some games
+that are more expensive while others may have more buyers. Based on how we sort the data will impact which items are the top
+5 for both most popular and most profitable. The results differ based on how our results are sorted. Based on these results, 
+the two most popular items are also the most profitable because a lot of people bought each game while the most popular (3-5)
+items are different than the most profitable (3-5) items because the number of people who bought each item was similar and 
+their prices were different which could impact popularity vs. profitability.
